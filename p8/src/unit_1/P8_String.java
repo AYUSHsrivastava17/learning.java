@@ -39,7 +39,7 @@ class QuestionsOnString {
         }
 
         if (s.toLowerCase().equals(reverses.toLowerCase())) {
-            System.out.println(s + " is a Palindrome String.");
+            System.out.println(s + " is Palindrome String.");
         }
         else {
             System.out.println(s + " is not a Palindrome String.");
