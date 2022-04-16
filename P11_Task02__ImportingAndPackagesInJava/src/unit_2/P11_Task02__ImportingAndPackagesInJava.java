@@ -1,13 +1,16 @@
 package unit_2;
-
 import static java.lang.System.*;
 
 import static java.lang.Math.*;
 
-import unit_1.P3_task1_variablesAndDataTypes;
+import unit_1.P3_task1_variablesAndDataTypes ;
+
 public class P11_Task02__ImportingAndPackagesInJava {
 
     public static void main(String[] args) {
+
+
+
 
         out.println("Welcome to package");
 
